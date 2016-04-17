@@ -2,16 +2,16 @@
    "wallpapers": [
       {
          "author": "Giulio Smedile",
-         "url": "https://github.com/bart172/alibi-wallpapers/blob/master/Rubeum.png",
+         "url": "https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Rubeum.png",
          "name": "Rubeum",
-         "thumbnail": "https://github.com/bart172/alibi-wallpapers/blob/master/Rubeum.thumbnail.png"
+         "thumbnail": "https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Rubeum.thumbnail.png"
       },
       
       {
          "author":"Giulio Smedile",
-         "url":"https://github.com/bart172/alibi-wallpapers/blob/master/Hyacintho.png",
+         "url":"https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Hyacintho.png",
          "name":"Hyacintho",
-         "thumbnail":"https://github.com/bart172/alibi-wallpapers/blob/master/Hyacintho.thumbnail.png"
+         "thumbnail":"https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Hyacintho.thumbnail.png"
       }
    ]
 }
