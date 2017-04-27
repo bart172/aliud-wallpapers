@@ -2,16 +2,22 @@
    "wallpapers": [
       {
          "author": "Giulio Smedile",
-         "url": "https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Rubeum.png",
+         "url": "https://raw.githubusercontent.com/bart172/aliud-wallpapers/master/Rubeum.png",
          "name": "Rubeum",
-         "thumbnail": "https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Rubeum.thumbnail.png"
+         "thumbnail": "https://raw.githubusercontent.com/bart172/aliud-wallpapers/master/Rubeum.thumbnail.png"
+      },
+      
+      {
+         "author": "Giulio Smedile",
+         "url": "https://raw.githubusercontent.com/bart172/aliud-wallpapers/master/Red.png",
+         "name": "Red"
       },
       
       {
          "author":"Giulio Smedile",
-         "url":"https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Hyacintho.png",
+         "url":"https://raw.githubusercontent.com/bart172/aliud-wallpapers/master/Hyacintho.png",
          "name":"Hyacintho",
-         "thumbnail":"https://raw.githubusercontent.com/bart172/alibi-wallpapers/master/Hyacintho.thumbnail.png"
+         "thumbnail":"https://raw.githubusercontent.com/bart172/aliud-wallpapers/master/Hyacintho.thumbnail.png"
       }
    ]
 }
