@@ -1,4 +1,4 @@
-# alibi-wallpapers
+# aliud-wallpapers
 
 <h1>Wallpapers size</h1>
 All wallpapers are <b>1920x1080</b> PNG images.
